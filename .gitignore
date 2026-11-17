@@ -1,0 +1,18 @@
+# Godot
+.godot/
+*.import
+export_presets.cfg
+*.translation
+
+# Node / ogb-mcp
+node_modules/
+ogb-mcp/dist/
+*.tsbuildinfo
+coverage/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/

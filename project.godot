@@ -1,0 +1,13 @@
+; Development project: lets you open this repository directly in Godot to
+; work on the addon. End users copy addons/ogb_bridge into their own project.
+
+config_version=5
+
+[application]
+
+config/name="OpenGodot Bridge (dev)"
+config/features=PackedStringArray("4.3")
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/ogb_bridge/plugin.cfg")
